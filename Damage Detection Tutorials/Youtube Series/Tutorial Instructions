@@ -1,0 +1,11 @@
+Welcome! 
+
+Here you will find a step by step guide on how to integrate machine learning into the damage assessment processes. 
+- Start by watching the introductory video "Machine Learning for Damage Assessments"
+- Steps 1-5 address how to set up a dataset for machine learning through Roboflow
+- Steps 6-12 address how to integrate a Roboflow dataset into a custom notebook for YOLOv5 algorithm training. 
+
+All of the data used, including images, labels, and notebooks, are imbedded in the "Damage Detection Tutorials" folder. 
+
+Link to Youtube
+https://www.youtube.com/playlist?list=PLsK5ITAqhBlGCFZH2sLLWZ0SeXyr47K65
