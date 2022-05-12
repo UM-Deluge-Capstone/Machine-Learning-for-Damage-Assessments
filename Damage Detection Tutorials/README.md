@@ -3,7 +3,7 @@ This folder contains images, labels, notebooks, and videos for machine learning 
 
 ## Machine Learning Tutorial 
 If you are interested in following along a custom tutorial for street level damage assessment, please follow these instructions:
-   1. Navigate to our Youtube series: https://www.youtube.com/channel/UC4IN_bbvUUc_b3gLA8pwO6w 
+   1. Navigate to our "Youtube series": https://www.youtube.com/channel/UC4IN_bbvUUc_b3gLA8pwO6w 
      OR check out the downloaded videos in the Youtube Series folder. 
    2. Navigate to Roboflow and sign up for a free account.
    3. Download the entire annotated dataset with corresponding files from the folder "Street-Level Damage Dataset".
