@@ -1,4 +1,12 @@
-This folder contains the following: 
+This folder contains images, labels, notebooks, and videos to help introduce the machine learning alogrithm, YOLOv5, into damage assessments for disaster recovery.
+To begin, download the entire annotated dataset with corresponding files from the folder "Street-Level Damage Dataset".
+Once downloaded and unzipped, these files are ready to be integrated into machine learning algorithms.
+
+If you'd like to follow along a tutorial, please navigate to our Youtube series: https://www.youtube.com/channel/UC4IN_bbvUUc_b3gLA8pwO6w 
+OR check out the downloaded videos in the Youtube Series folder. 
+
+
+
 	An annotated dataset of disaster damage images 
 	Google Collaboratory notebook(s) with a custom damage dectection YOLOv5 tutorial
 	Videos of tutorials and Youtube links
