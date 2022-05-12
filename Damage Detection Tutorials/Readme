@@ -15,5 +15,5 @@ If are interested in following along a custom tutorial for street level damage a
    6. Follow the video tutorial to apply dataset to custom notebook.
 
 If you are interested in leveraging our Custom Damage Assessment Notebook for YOLOv5, follow these instructions: 
-   1. Search for "YOLOv5-Custom-Training.ipynb" notebook in Google Colaboratory. 
+   1. Open the for "*Linked* Damage_Assessment_YOLOv5_Custom_Training.ipynb" notebook in Google Colaboratory. 
    2. Follow the notebook instructions.
