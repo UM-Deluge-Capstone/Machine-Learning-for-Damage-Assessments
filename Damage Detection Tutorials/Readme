@@ -11,8 +11,8 @@ If are interested in following along a custom tutorial for street level damage a
    3. Download the entire annotated dataset with corresponding files from the folder "Street-Level Damage Dataset".
    4. Once downloaded and unzipped, upload the dataset to a Roboflow project.
      OR upload unannotated images from your personal collection. Annotate these in Roboflow. 
-   5. Download the custome notebook called "*Linked* Damage_Assessment_YOLOv5_Custom_Training.ipynb" 
-   6. Follow the video tutorial.
+   5. Download the custom notebook called "*Linked* Damage_Assessment_YOLOv5_Custom_Training.ipynb" 
+   6. Follow the video tutorial to apply dataset to custom notebook.
 
 If you are interested in leveraging our Custom Damage Assessment Notebook for YOLOv5, follow these instructions: 
    1. Search for "YOLOv5-Custom-Training.ipynb" notebook in Google Colaboratory. 
