@@ -1,3 +1,6 @@
+This folder contains a pre-annotated street level damage assessment dataset. Download the entire contents for use.
+
+
 Public Datasets
   https://public.roboflow.ai/object-detection/undefined
 
