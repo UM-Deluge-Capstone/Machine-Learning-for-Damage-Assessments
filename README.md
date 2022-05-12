@@ -3,7 +3,7 @@ A group of graduate student researchers from the University of Michigan collecte
 
 - For information on how to design a street level damage assessment machine learning model, navigate to the "Damage Detection Tutorials" folder.
 
-- For images related to street level disaster damage, navigate to the "Images" folder.
+- For unannotated, raw images related to street level disaster damage, navigate to the "Images" folder.
 
 Table of Contents 
 
@@ -16,10 +16,6 @@ Table of Contents
       Hurricane
       Earthquake
       Tornado
-			
-	 Written Reports 
-      Working Papers
-      White Papers
 
 
 For more, please check out our Website (https://rise-above-the-deluge-um.webflow.io/)
