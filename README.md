@@ -5,8 +5,6 @@ A group of graduate student researchers from the University of Michigan collecte
 
 - For images related to street level disaster damage, navigate to the "Images" folder.
 
-- For information on machine learning tools and damage assessment methods, navigate to the "Written Reports" folder.
-
 Table of Contents 
 
 	Damage Detection Tutorials
@@ -23,4 +21,5 @@ Table of Contents
       Working Papers
       White Papers
 
- 		For more, please check out our Website (https://rise-above-the-deluge-um.webflow.io/)
+
+For more, please check out our Website (https://rise-above-the-deluge-um.webflow.io/)
