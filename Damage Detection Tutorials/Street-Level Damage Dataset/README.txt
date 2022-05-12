@@ -1,15 +1,12 @@
 This folder contains a pre-annotated street level damage assessment dataset. Download the entire contents for use.
 
 
-Public Datasets
+Other Public Datasets
   https://public.roboflow.ai/object-detection/undefined
 
-Disaster Damage Dataset
+Roboflow API link to street level damage assessment dataset
   api_key = rf_FIIaC3fenWR6H6uFNVDpIRdzPFL2
   
-  Terminal
-     curl -L "https://app.roboflow.com/ds/mqa8P3RYXk?key=ITLG8epLMj" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
-
 License
   Provided by undefined
   License: CC BY 4.0
