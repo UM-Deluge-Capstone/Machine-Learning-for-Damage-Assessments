@@ -1,6 +1,6 @@
 This folder contains images, labels, notebooks, and videos for machine learning purposes. 
 
-If you are interested in utilizing a pre-annotated dataset for object detection, follow these instructions:
+If you are interested in utilizing a pre-annotated dataset for object detection using street level images, follow these instructions:
    1. Download the entire annotated dataset with corresponding files from the folder "Street-Level Damage Dataset".
    2. Once downloaded and unzipped, these files are ready to be integrated into machine learning algorithms.
 
